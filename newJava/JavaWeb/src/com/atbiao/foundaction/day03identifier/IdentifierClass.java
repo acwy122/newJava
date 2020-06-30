@@ -26,6 +26,6 @@ public class IdentifierClass {
 	 * java中的关键字保留字笔记图片保留路径
 	 */
 	public static void keyWord() {
-		System.out.println("java中的关键字保留字图片笔记保留路径：src/main/webapp/common/images/javaKeyWord/JAVA中的关键字保留字.jpg");
+		System.out.println("java中的关键字保留字图片笔记保留路径：/web/common/images/BallGamePicture/JAVA中的关键字保留字.jpg");
 	}
 }

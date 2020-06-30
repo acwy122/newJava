@@ -5,8 +5,8 @@ import java.awt.*;
 
 public class BallGame2 extends JFrame {
 	//加载图片到对象中
-	Image ball = Toolkit.getDefaultToolkit().getImage("src/main/webapp/common/images/BallGamePicture/ball.png");
-	Image desk = Toolkit.getDefaultToolkit().getImage("src/main/webapp/common/images/BallGamePicture/desk.jpg");
+	Image ball = Toolkit.getDefaultToolkit().getImage("/web/common/images/BallGamePicture/ball.png");
+	Image desk = Toolkit.getDefaultToolkit().getImage("/web/common/images/BallGamePicture/desk.jpg");
 	
 	//小球的坐标
 	double x = 100;
